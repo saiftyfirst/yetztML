@@ -41,7 +41,7 @@ Interneuron Diversity
 
 The initially homogenous group of interneurons cluster into two separate groups, one group is similar to PV interneurons and the other group exhibits similarity with SST interneurons.
 
-_PV_ _Interneurons_: These neurons receive short\-term depressing inputs from the PRs \(Observed through mean PPR\). Moreover, they preferentially target the somatic compartment for inhibition, meaning that post\-optimization their synaptic connection to the dendrites is close to 0 but non\-0 for the somatic compartment. 
+_PV Interneurons:_ These neurons receive short\-term depressing inputs from the PRs \(Observed through mean PPR\). Moreover, they preferentially target the somatic compartment for inhibition, meaning that post\-optimization their synaptic connection to the dendrites is close to 0 but non\-0 for the somatic compartment. 
 
 _SST Interneurons:_ These neurons receive short\-term facilitating inputs from the PRs \(Observed through mean PPR\). Moreover, they preferentially target the dendritic compartment for inhibition.
 
